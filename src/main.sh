@@ -3,7 +3,7 @@
 . usefulFunctions.sh
 . execute.sh
 
-export SERVER_LAB_MANAGER="https://bsgenlm.bstlabrd.fr.alcatel-lucent.com/LabManager/SOAP/LabManager.asmx"
+export SERVER_LAB_MANAGER="https://[host]/LabManager/SOAP/LabManager.asmx"
 
 function main() {
 

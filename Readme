@@ -1,0 +1,9 @@
+//
+// It's a serie of scripts to perform actions on VmwareLabManager© server
+//
+
+- Change in main.sh: 
+
+  	 export SERVER_LAB_MANAGER="https://[host]/LabManager/SOAP/LabManager.asmx"
+
+  * replace [host] by the right address 
